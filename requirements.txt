@@ -1,0 +1,9 @@
+Flask==3.0.3
+langchain-community==0.2.11
+langchain-text-splitters==0.2.2
+langchain-core==0.2.29
+langchain-ibm==0.1.12
+sentence-transformers==3.0.1
+python-dotenv==1.0.1
+pypdf==4.3.1
+faiss-cpu==1.8.0.post1

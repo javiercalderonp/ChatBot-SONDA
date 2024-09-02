@@ -1,0 +1,312 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chatbot</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            padding: 0;
+            margin: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #f5f5f5;
+        }
+
+        h1 {
+            padding: 20px;
+            text-align: center;
+            background-color: #f5f5f5;
+            margin: 0;
+            border-bottom: 1px solid #ccc;
+        }
+        .chat-box {
+            padding: 10px;
+            flex-grow: 1;
+            overflow-y: auto;
+            background-color: #fafafa;
+            border-bottom: 1px solid #ccc;
+        }
+        .input-container {
+            display: flex;
+            border-top: 1px solid #ccc;
+            padding: 10px;
+        }
+        .chat-input {
+            flex-grow: 1;
+            padding: 15px;
+            border: 1px solid #ccc;
+            border-radius: 5px 0 0 5px;
+            box-sizing: border-box;
+            margin-right: -1px; /* Elimina el espacio entre el botón y la entrada */
+        }
+        .chat-button {
+            padding: 15px 20px;
+            background-color: #63c152;
+            color: white;
+            border: 1px solid #4CAF50;
+            border-radius: 0 5px 5px 0;
+            cursor: pointer;
+            box-sizing: border-box;
+        }
+        .message {
+            display: flex;
+            align-items: flex-start;
+            margin-bottom: 10px;
+        }
+        .message img {
+            border-radius: 50%;
+            width: 40px;
+            height: 40px;
+            margin-right: 10px;
+        }
+        .message-content {
+            padding: 10px;
+            border-radius: 5px;
+            flex-grow: 1;
+        }
+        .user-message .message-content {
+            background-color: #d4f1f9; /* Celeste */
+        }
+        .assistant-message .message-content {
+            background-color: #d4f9d4; /* Verde claro */
+        }
+        .spinner-overlay {
+            display: flex;
+            align-items: center;
+            justify-content: left;
+            margin-bottom: 10px;
+        }
+
+        .spinner {
+            border: 4px solid #f3f3f3;
+            border-top: 4px solid #3498db;
+            border-radius: 50%;
+            width: 10px;
+            height: 10px;
+            animation: spin 1s linear infinite;
+        }
+        .logo-container {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            display: flex;
+            align-items: center;
+            z-index: 1000; /* Asegura que los logos estén por encima del contenido principal */
+            margin-bottom: 20px; /* Evita la superposición con el chat */
+        }
+
+        .logo-container img {
+            margin-left: 5px; /* Separación entre los logotipos */
+            height: auto;
+        }
+
+        .logo-container img[alt="Entel Logo"] {
+            max-width: 150px; /* Reduce el tamaño del logotipo de Entel */
+        }
+
+        .logo-container img[alt="IBM Logo"] {
+            max-width: 110px; /* Mantiene el tamaño del logotipo de IBM */
+        }
+
+        .chat-container {
+            margin-top: 60px; /* Ajusta el margen superior para que el chat no se superponga con los logotipos */
+            width: 80%;
+            max-width: 800px;
+            background-color: white;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+            display: flex;
+            flex-direction: column;
+            height: 80vh; /* Ocupa el 80% de la altura de la pantalla */
+            margin: 20px 0;
+        }
+
+        .eila-logo-container {
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            z-index: 1000;
+        }
+
+        .eila-logo-container img {
+            max-width: 130px; /* Ajusta el tamaño del logo de EILA24 */
+            height: auto;
+        }
+
+
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="logo-container">
+        <img src="/images/SONDA.png" alt="Entel Logo" class="logo">
+        <img src="/images/ibm-logo.png" alt="IBM Logo" class="logo">
+    </div>
+
+    <div class="eila-logo-container">
+        <img src="/images/Insute.png" alt="EILA24 Logo">
+    </div>
+    
+    <div class="chat-container">
+        <h1>#EILA24</h1>
+        <div class="chat-box" id="chat-box"></div>
+        <div class="input-container">
+            <input type="text" id="question" class="chat-input" placeholder="Escribe tu pregunta...">
+            <button id="ask-button" class="chat-button">Enviar</button>
+        </div>
+    </div>
+    
+
+<script>
+    function showWelcomeMessage() {
+        var chatBox = document.getElementById('chat-box');
+        chatBox.innerHTML += `
+            <div class="message assistant-message">
+                <img src="/images/assistant_image.jpeg" alt="Assistant">
+                <div class="message-content">¡Hola! Soy tu asistente virtual. ¿En qué puedo ayudarte hoy?</div>
+            </div>
+        `;
+    }
+    document.getElementById('ask-button').onclick = function() {
+    var questionInput = document.getElementById('question');
+    var chatBox = document.getElementById('chat-box');
+    var askButton = document.getElementById('ask-button');
+    
+    var question = questionInput.value;
+
+    if (question) {
+        // Añadir la pregunta del usuario al chatbox con imagen
+        chatBox.innerHTML += `
+            <div class="message user-message">
+                <img src="/images/user_image.jpg" alt="User">
+                <div class="message-content">${question}</div>
+            </div>
+        `;
+
+        // Deshabilitar el botón de envío y el campo de entrada
+        askButton.disabled = true;
+        questionInput.disabled = true;
+
+        // Crear el div del asistente sin el mensaje aún
+        var assistantResponse = document.createElement('div');
+        assistantResponse.style.display = 'none'; 
+        assistantResponse.className = 'message assistant-message';
+        assistantResponse.innerHTML = `
+            <img src="/images/assistant_image.jpeg" alt="Assistant">
+            <div class="message-content"></div>
+        `;
+
+        // Obtener la referencia del contenedor del contenido del mensaje
+        var assistantMessageContent = assistantResponse.querySelector('.message-content');
+
+        var spinnerOverlay = document.createElement('div');
+        spinnerOverlay.className = 'spinner-overlay';
+        spinnerOverlay.innerHTML = `
+            <div class="spinner"></div>  Procesando respuesta...
+        `;
+        spinnerOverlay.style.display = 'none';
+        chatBox.appendChild(spinnerOverlay);
+
+        // Añadir el div del asistente al DOM
+        chatBox.appendChild(assistantResponse);
+
+        // Guardar la longitud inicial del contenido
+        var largo_div = assistantMessageContent.innerHTML.length;
+
+        // Iniciar el evento SSE para recibir respuestas en tiempo real
+        var eventSource = new EventSource('/ask?' + new URLSearchParams({ question: question }));
+
+        eventSource.onmessage = function(event) {
+
+
+
+            // Reemplaza '*' por un salto de línea
+            const formattedResponse = event.data.replace(/\*/g, '\n');
+
+            // Concatenar la respuesta formateada
+            assistantMessageContent.innerHTML += formattedResponse.replace(/\n/g, '<br>');
+
+
+            // Concatenar la respuesta recibida
+            //assistantMessageContent.innerHTML += event.data;
+
+
+
+
+            // Cuando llegue la primera parte de la respuesta, mostrarla y ocultar el spinner
+            if (assistantMessageContent.innerHTML.length > largo_div) {
+                spinnerOverlay.style.display = 'none';
+                assistantResponse.style.display = 'flex';
+            } else {
+                assistantResponse.style.display = 'none'; // Ocultar el div del asistente
+                spinnerOverlay.style.display = 'flex'; // Mostrar el spinner
+            }
+
+            chatBox.scrollTop = chatBox.scrollHeight; // Hacer scroll hasta el final
+        };
+
+        eventSource.onerror = function() {
+            eventSource.close();
+            // Habilitar el botón de envío y el campo de entrada
+            askButton.disabled = false;
+            questionInput.disabled = false;
+        };
+
+        // Limpiar el campo de entrada de texto
+        questionInput.value = '';
+
+        // Al cerrar la conexión (cuando la respuesta esté completa), volver a habilitar
+        eventSource.addEventListener('end', function() {
+            // Habilitar el botón de envío y el campo de entrada
+            askButton.disabled = false;
+            questionInput.disabled = false;
+            eventSource.close();
+        });
+    }
+}
+
+// Mostrar mensaje de bienvenida al cargar la página
+window.onload = showWelcomeMessage;
+
+// Evento para enviar la pregunta con la tecla "Enter"
+    document.getElementById('question').addEventListener('keydown', function(event) {
+        if (event.key === "Enter") {  // Verifica si la tecla presionada es "Enter"
+            event.preventDefault();  // Evita que se envíe un formulario o se haga otra acción por defecto
+            document.getElementById('ask-button').click();  // Simula un clic en el botón "Enviar"
+        }
+    });
+eventSource.onmessage = function(event) {
+    // Reemplazar '*' y ':' con una nueva línea y punto de viñeta, agregando un espacio extra
+    let formattedResponse = event.data.replace(/\-/g, '<br><br>• ').replace(/\:/g, '<br><br>• ');
+
+
+
+    // Concatenate the formatted response
+    assistantMessageContent.innerHTML += formattedResponse;
+
+    // When the first part of the response arrives, show it and hide the spinner
+    if (assistantMessageContent.innerHTML.length > largo_div) {
+        spinnerOverlay.style.display = 'none';
+        assistantResponse.style.display = 'flex';
+    } else {
+        assistantResponse.style.display = 'none'; // Hide the assistant div
+        spinnerOverlay.style.display = 'flex'; // Show the spinner
+    }
+
+    chatBox.scrollTop = chatBox.scrollHeight; // Scroll to the end
+};
+
+
+</script>
+
+</body>
+</html>

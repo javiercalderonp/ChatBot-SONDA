@@ -1,0 +1,683 @@
+El nombre de la poliza es: POLIZA DE SUBARU FLEXIBLE FORUM 24 MESES
+El deducible de la póliza es: Deducible 10 UF
+El concesionario de la póliza es: Indumotora One S.A.  -  Subaru Plaza Egaña
+
+Esta entidad aseguradora, en consideración a la propuesta presentada por el asegurado y a las condiciones particulares y generales que a continuación se acompañan, asegura lo siguiente:
+
+Datos del corredor:
+¿Quién es el Corredor?, ¿cuál es el Corredor?, Datos del Corredor?
+Nombre: Cono Sur Corredores De Seguros Ltda.
+Rut: 76.213.750 - K
+Comisión del corredor: 0.75 % de la prima neta.
+
+Datos del Asegurado:
+¿Quién es la asegurada?
+Nombre Completo: Maria Angelica Cespedes Jorquera
+Rut: 11.273.828 - 2
+Dirección: Ventura Blanco Viel 1320 Depto 306
+Ciudad: Santiago
+Comuna: San Miguel
+Teléfono Fijo: 09-99170031
+Celular: 09-99170031
+e-Mail: cespedesjorquera.ma@gamil.com
+
+
+Datos del Contratante:
+¿Quién es el Contratante?, ¿cuál es el contratante?, Datos del Contratante?
+Nombre Completo del contratante es: Enrique Aurelio Ramirez Paredes
+Rut: 9.091.519 - 3
+Dirección: Ventura Blanco Viel 1320 Depto 306
+Ciudad: Santiago
+Comuna: San Miguel
+Teléfono Fijo: 999991627
+Celular: 09-99170031
+e-Mail: enrique220563@gmail.com
+
+Total Primas Sin Interés:
+¿Cuál es la prima del contrato de la poliza?
+Prima Afecta UF: 42.50
+IVA UF: 8.08
+Prima Total: 50.58
+
+Vigencia del seguro:
+Cual es la vigencia del seguro? ¿Vigencia del seguro?
+La vigencia del seguro es: Desde las 21:01 hrs del 22/05/2023 hasta las 12:00 hrs del 22/05/2025.
+
+Forma de Pago:
+¿Cuál es la fomra de pago?
+PAT Nro. de Cuotas: 24
+
+CONDICIONES PARTICULARES ASOCIADAS A MODALIDAD DE PAGO:
+De acuerdo a la Modalidad de Pago escogida y registrada por el Responsable de Pago en la Compañía, aplica una de las siguientes cláusulas, según corresponda:
+
+PAC
+El pago de la prima se efectuará mediante la modalidad PAC, Autorización de Descuento en Cuenta Corriente Bancaria, por lo que las condiciones del mandato que autoriza esta modalidad de pago forma parte integrante de las condiciones particulares de la póliza. (Circular 1499 CMF).
+
+PAT
+El pago de la prima se efectuará mediante la modalidad PAT, Autorización de Descuento en Tarjeta de Crédito, por lo que las condiciones del mandato que autoriza esta modalidad de pago forma parte integrante de las condiciones particulares de la póliza. (Circular 1499 CMF).
+
+CUP
+El pago de la prima se efectuará mediante la modalidad CUP. Autorización de Pago en Estado de Cuenta Refundido, por lo que las condiciones del compromiso único que autoriza esta modalidad de pago forma parte integrante de las condiciones particulares de la póliza. (Circular 1499 CMF).
+
+PLAN DE PAGO:
+El Plan de Pago forma parte integrante de las Condiciones Particulares de la Póliza.
+
+
+Descripción de la Materia Asegurada
+Vehículo: Automovil 
+Marca: Subaru
+Modelo: Xv
+Año: 2023
+Kilometraje: 0
+Uso: Particular
+Estado: Nuevo
+Patente: SWDP12
+Nro.Motor: YU59070
+Nro.Chasis: JF1GT7LL5NG174032
+Color: Blanco
+
+Interés asegurable: DUEÑO O PROPIETARIO
+Uso específico: PARTICULAR
+
+COBERTURAS DEL PLAN
+La poliza señala que las coberturas del plan son: "Daños Materiales POL 1 2013 0214", "Robo de Accesorios (Hasta 10% del Valor Comercial) (CAD 1 2013 0335)", "Robo, hurto o uso no autorizado POL 1 2013 0214", "UF 1500 Responsabilidad Civil daño emergente, daño moral y lucro cesante cada uno. POL 1 2016 0325", "Huelga y Terrorismo CAD 1 2013 0336", "Actos Maliciosos CAD 1 2013 0337", "Sismo CAD 1 2013 0340", "Granizo (CAD 1 2013 0339 ) y Otros Riesgos de la Naturaleza (CAD 12013 0338)", "Daños Materiales por la Propia Carga (CAD 1 2013 0342)", "Daños a Terceros por la Propia carga CAD 1 2013 0345", "Defensa penal y constitución de fianza (CAD 1 2013 0344)", "Asistencia al vehículo (POL 1 2014 0303)", " Exclusividad Taller Subaru (C. Particular)", "Vehículo de reemplazo 10 Días Cat. Superior", "Indemnización 0 Km. 24 meses" 
+
+Coberturas del Plan: Daños Materiales POL 1 2013 0214
+Monto Asegurado: Valor Comercial
+Dist. (UF): 34.14
+
+Coberturas del Plan: Robo de Accesorios (Hasta 10% del Valor Comercial) (CAD 1 2013 0335)
+Monto Asegurado: Max UF50
+Dist. (UF): 1.20
+
+Coberturas del Plan: Robo, hurto o uso no autorizado POL 1 2013 0214
+Monto Asegurado: Valor Comercial
+Dist. (UF): 1.20
+
+Coberturas del Plan: UF 1500 Responsabilidad Civil daño emergente, daño moral y lucro cesante cada uno. POL 1 2016 0325
+Monto Asegurado: UF 1500 IND
+Dist. (UF): 2.80
+
+Coberturas del Plan: Huelga y Terrorismo CAD 1 2013 0336
+Monto Asegurado: Valor Comercial
+Dist. (UF): 0.40
+
+Coberturas del Plan: Actos Maliciosos CAD 1 2013 0337
+Monto Asegurado: Valor Comercial
+Dist. (UF): 0.40
+
+Coberturas del Plan: Sismo CAD 1 2013 0340
+Monto Asegurado: Valor Comercial
+Dist. (UF): 0.40
+
+Coberturas del Plan: Granizo (CAD 1 2013 0339 ) y Otros Riesgos de la Naturaleza (CAD 12013 0338)
+Monto Asegurado: Valor Comercial
+Dist. (UF): 0.40
+
+Coberturas del Plan: Daños Materiales por la Propia Carga (CAD 1 2013 0342)
+Monto Asegurado: Valor Comercial
+Dist. (UF): 0.40
+
+Coberturas del Plan: Daños a Terceros por la Propia carga CAD 1 2013 0345
+Monto Asegurado: UF500
+Dist. (UF): 0.40
+
+Coberturas del Plan: Defensa penal y constitución de fianza (CAD 1 2013 0344)
+Monto Asegurado: UF150
+Dist. (UF): 0.10
+
+Coberturas del Plan: Asistencia al vehículo (POL 1 2014 0303)
+Monto Asegurado: UF250
+Dist. (UF): 0.44
+
+Coberturas del Plan: Exclusividad Taller Subaru (C. Particular)
+Monto Asegurado: Valor Comercial
+Dist. (UF): 0.10
+
+Coberturas del Plan: Indemnización 0 Km. 24 meses
+Monto Asegurado: No Especifica
+Dist. (UF): 0.01
+
+Coberturas del Plan: Vehículo de reemplazo 10 Días Cat. Superior
+Monto Asegurado: No Especifica
+Dist. (UF): 0.10
+
+
+Datos de la Factura:
+Factura: Se considerarán cubiertos los accesorios no desmontables instalados al vehículo e individualizados según el siguiente detalle: No hay accesorios adicionales declarados.
+Número de la Factura:  1123724
+Fecha de Factura:  22/05/2023
+Emisor de Factura:  INDUMOTORA ONE S.A.
+
+
+
+
+Rigen los siguientes deducibles obligatorios, aplicables en toda y cada pérdida:
+¿Cuaés son los Deducibles?: 
+Los Deducibles de la póliza son:"Daños Materiales", "Robo, hurto o uso no autorizado", "Robo Accesorios", "Huelga y Terrorismo", "Actos Maliciosos", "Granizo", "Riesgos de la Naturaleza", "Sismo", "Daños Materiales por la propia carga".
+
+Cobertura Deducible Daños Materiales: "Daños Materiales", Código Registro S.V.S. (POL 1 2013 0214), Deducible UF 10,0
+Cobertura Deducible Robo, hurto o uso no autorizado: "Robo, hurto o uso no autorizado", Código Registro S.V.S. (POL 1 2013 0214), Deducible UF 10,0
+Cobertura Deducible Robo accesorios: "Robo Accesorios", Código Registro S.V.S. (CAD 1 2013 0335), Deducible UF 2,5
+Cobertura Deducible Huelga y Terrorismo: "Huelga y Terrorismo", Código Registro S.V.S. (CAD 1 2013 0336), Deducible UF 10,0
+Cobertura Deducible Actos maliciosos: "Actos Maliciosos", Código Registro S.V.S. (CAD 1 2013 0337), Deducible UF 10,0
+Cobertura Deducible Granizo: "Granizo", Código Registro S.V.S. (CAD 1 2013 0339), Deducible UF 10,0
+Cobertura Deducible Riesgo de la Naturaleza: "Riesgos de la Naturaleza", Código Registro S.V.S. (CAD 1 2013 0338), Deducible UF 10,0
+Cobertura Deducible Sismo: "Sismo", Código Registro S.V.S. (CAD 1 2013 0340), Deducible UF 10,0
+Cobertura Deducible Daños Materiales por la Propia Carga: "Daños Materiales por la propia carga", Código Registro S.V.S. (CAD 1 2013 0342), Deducible UF 10,0
+
+
+
+
+
+RESPONSABILIDAD CIVIL:
+No obstante lo indicado en el detalle de coberturas del presente ítem las coberturas de Responsabilidad Civil, Daño Emergente, Daño Moral y Lucro Cesante son independientes entre si.
+
+INDEMNIZACION CERO KILOMETRO:
+La indemnización rige para vehículos que cumplan con las siguientes características a la fecha de ocurrencia del siniestro:
+1. Tener menos de 24 meses de antigüedad contados desde la fecha de facturación.
+2. Ser primera venta.
+En caso de Pérdida Total o Robo del vehículo asegurado, se indemnizará al asegurado en dinero o especie, a elección de la Compañía, el valor de un vehículo de la misma marca, modelo y versión cero kilómetro, sin aplicar depreciación por uso.
+De no existir el mismo vehículo en plaza, la Compañía indemnizará en dinero o especie, un vehículo equivalente.
+
+
+VEHÍCULO DE REEMPLAZO (SÓLO EN CHILE):
+Condiciones del Vehículo de Reemplazo (sólo para Chile): Por algún motivo de siniestro indemnizable por la Compañía de Seguros, el asegurado tendrá derecho a un vehículo de reemplazo después de haber llamado a AUXILIA CLUB ASISTENCIA y una vez verificada en el taller correspondiente, que la reparación del vehículo asegurado requiere más de 24 horas antes de ser reparado. El prestador del servicio suministrará al asegurado un vehículo de categoría según el plan, mientras dure la reparación mencionada; con kilometraje ilimitado y seguros, y se hará cargo de los gastos de su arriendo por el plazo establecido. Para casos de pérdida total, si el respectivo plan de asistencia lo contempla, la prestación entrará en vigencia desde el comunicado de la Compañía de Seguros o el liquidador correspondiente de tal situación. Esta prestación no será acumulable a la prestación de "estancia y desplazamiento por inmovilización del vehículo" y está sujeta a la disponibilidad de un medio alternativo de transporte convencional con un límite del costo económico de la prestación de vehículo de reemplazo. Queda establecido que el asegurado deberá asumir el copago del costo diario de arriendo del vehículo de reemplazo por un valor de acuerdo a su respectivo plan, así como los gastos fijos promedios diarios cobrados por el prestador del servicio por concepto de uso efectivo o no, del TAG.
+Procedimiento para el Vehículo de Reemplazo:
+1) El vehículo de reemplazo será entregado al asegurado una vez que la Compañía de Seguros hubiera recibido la formal denuncia del siniestro que origine la reparación autorizada por el liquidador o la declaración de pérdida total.
+2) La Compañía de Seguros hará llegar al prestador del servicio la orden de trabajo donde consta la fecha de ingreso a taller y tiempo estimado de reparación con el objeto de aplicar un deducible de 24 hrs. y por tanto las fechas en que se hará entrega del vehículo de arriendo al asegurado. Individualizando claramente al asegurado, o la persona habilitada para retirar y/o conducir el vehículo.
+3) La entrega del vehículo de arriendo al asegurado se hará siempre a través de AUXILIA CLUB ASISTENCIA. No habrá reembolso por esta cobertura.
+4) AUXILIA CLUB ASISTENCIA entregará el vehículo de arriendo al asegurado previa presentación de una garantía a la empresa de arriendo consistente en un voucher de tarjeta de crédito válida y vigente en el país o un cheque al cual será cargado el copago del asegurado.
+5) Una vez devuelto el vehículo por parte del asegurado, la empresa de arriendo facturará el 100% del arriendo al prestador del servicio, pero deducido el copago por día, ya cobrado al asegurado. Si el asegurado no devuelve el vehículo de arriendo dentro del plazo establecido, este se deber hacer cargo del 100% del costo adicional.
+6) El presente servicio consta de un deducible de 24 horas, a contar de la fecha en que el vehículo afectado es ingresado al taller de reparación.
+
+Limites del Vehículo de Reemplazo: 
+Ámbito territorial automóvil de reemplazo: República de Chile y Chiloé, excluye Isla de Pascua, Archipiélago Juan Fernández y territorio Antártico. Sujeto a un copago diario de $8.000.
+IVA: IVA Incluido.
+Categoría de vehículo: Superior.
+Limite de tiempo: Máximo 10 días por evento.
+
+Categoría Superior, de acuerdo con la clasificación de las empresas de rent a car, es decir, vehículos tipo sedán, cuatro puertas, automáticos full equipados con aire acondicionado, airbag, y cierre centralizado. Ejemplo: Hyundai Elantra, Toyota Corolla, etc.
+
+
+COBERTURA DE DAÑOS MATERIALES:
+El presente seguro se formula para la "modalidad de aseguramiento comercial", descrita en la Letra b) del Artículo 3.1, numeral 3.1.2 según Código POL 1 2013 0214 de la S.V.S.
+En el caso de la situación prevista de acuerdo al Art. 26 Números 1) y 2) de las Condiciones
+Generales de la póliza, el límite máximo para reparaciones sin autorización previa de la compañía será de UF 5.
+En el caso de la situación prevista de acuerdo al Art 26 Num 3) de las Condiciones Generales de la póliza, el límite máximo por concepto de gastos razonables de traslado del vehículo asegurado sin autorización previa de la compañía será de UF1.
+
+PERDIDA TOTAL:
+Cobertura por pérdida total: Se entenderá por pérdida total cuando el costo de reparación sea superior al 65% del valor comercial del vehículo. 
+
+ROBO, HURTO O USO NO AUTORIZADO:
+La cobertura Rige cobertura por Robo, Hurto o uso no autorizado de acuerdo a la POL 1 2013 0214.
+
+ROBO DE ACCESORIOS:
+Por robo de accesorios: En consideración al pago de la extraprima correspondiente, la presente póliza cubre el riesgo de robo de accesorios indicado en la CAD 1 2013 0335. El robo o hurto de radios con panel desmontable, solo será indemnizado contra entrega, por parte del asegurado, a la compañía del panel desmontable correspondiente a la radio asegurada. 
+La indemnización de accesorios sin identificación completa (marca y modelo), se ajustará teniendo como referencia un accesorio equivalente al de menor valor de acuerdo a la identificación incompleta detallada en la póliza.
+
+COBERTURA ROBO DE ACCESORIOS:
+La coberura por robo de accesorios es hasta el 10 % del valor comercial con un máximo de UF 50.
+
+EXCLUSIVIDAD DE TALLER CON DISTRIBUIDOR DE VENTA:
+Exclusividad de Taller con el Concesionario de Venta: En caso de la ocurrencia de un siniestro amparado por la presente póliza, el vehículo será reparado prioritariamente en el taller del Concesionario que vendió el vehículo y la respectiva póliza de seguro. Excepto en caso que el siniestro ocurriera fuera de la ciudad donde el taller se ubica.
+
+
+ASISTENCIA AL VEHICULO (POL 1 2014 0303):
+1. BENEFICIARIOS:
+A) VEHÍCULO BENEFICIARIO: Se entiende por vehículo Beneficiario el que aparezca identificado como tal en la póliza. La cobertura que otorga esta Asistencia se refiere exclusivamente a dicho vehículo. No podrán ser materia de esta asistencia y quedarán siempre excluidos de la cobertura las siguientes categorías de vehículos: a) Los destinados al transporte público de mercancías o personas; b) Los de alquiler, con o sin conductor; c) Los que tengan un peso máximo (tara) superior a 2.000 kilogramos; d) Los que tengan más de 15 años de antigüedad desde la fecha de su fabricación; y e) Las motocicletas.
+B) PERSONAS BENEFICIARIO: Como personas beneficiadas, para los efectos de esta asistencia se entiende que quedan incorporadas como beneficiarias las siguientes personas: a) La persona que aparezca como Beneficiario titular según lo detallado en la póliza; b) Las personas señaladas como conductores habituales del vehículo individualizado en la póliza, cuando el Beneficiario o contratante del seguro sea una persona jurídica; c) El cónyuge, ascendientes y descendientes en primer grado de la persona señalada en la letra a), siempre que residan junto con ella y vivan a sus expensas, aunque viajen por separado y en cualquier medio de locomoción; y d) Los demás ocupantes del vehículo registrado sólo cuando resulten lesionados por un accidente de tránsito sufrido por el mismo vehículo.
+¿Qué se entiende por beneficiario? Cada vez que en esta asistencia se use la expresión "Beneficiario", se entiende que ella incluye a todas las personas mencionadas en este párrafo.
+
+2. COBERTURA:
+La Cobertura del seguro es el Territorio Chileno exceptuando Provincia de Palena y territorios insulares pero incluyendo Isla Grande de Chiloé, Argentina, Bolivia, Brasil, Paraguay, Perú, Uruguay y Venezuela.
+
+3. DETALLES DEL SERVICIO:
+Remolque o transporte del vehículo: En caso que el vehículo asegurado no pudiera circular por avería o accidente, AUXILIA CLUB ASISTENCIA se hará cargo del remolque o transporte hasta el taller regulador más cercano según listado de talleres proporcionados previamente por la compañía (Km. 0 desde el domicilio del asegurado).
+Límite del remolque o transporte del vehículo: UF 10.
+
+Estancia de los asegurados por inmovilización del vehículo: En caso de avería o accidente del vehículo que cause su inmovilidad, la AUXILIA CLUB ASISTENCIA sufragará los siguientes gastos:
+a) La estancia en hotel, siempre que la reparación del vehículo no pueda ser efectuada en el mismo día de su inmovilización y requiera para ser hecha de un tiempo superior a 2 horas, según el criterio del responsable del taller elegido.
+b) El desplazamiento para el traslado de los Beneficiarios hasta su domicilio habitual, siempre que la reparación del vehículo no pueda ser efectuada en las 48 horas siguientes a la inmovilización y requiera para ser hecha de un tiempo superior a 6 horas, según el criterio del responsable del taller elegido.
+Si los Beneficiarios optan por la continuación del viaje, AUXILIA CLUB ASISTENCIA sufragará los gastos de desplazamiento hasta el lugar de destino previsto, siempre que el costo no supere la prestación a que se refiere el párrafo anterior.
+Límite de la Estancia de los Asegurados: Letra a) UF 3 por día, máximo UF 9.
+
+
+
+
+Estancia y desplazamiento de los asegurados por robo del vehículo:
+En caso de robo del vehículo, y una vez cumplidos los trámites de denuncia a las autoridades competentes AUXILIA CLUB ASISTENCIA sufragará los siguientes gastos:
+a) La estancia en hotel, siempre que la reparación del vehículo no pueda ser efectuada en el mismo día de su inmovilización y requiera para ser hecha de un tiempo superior a 2 horas, según el criterio del responsable del taller elegido.
+b) El desplazamiento para el traslado de los Beneficiarios hasta su domicilio habitual, siempre que la reparación del vehículo no pueda ser efectuada en las 48 horas siguientes a la inmovilización y requiera para ser hecha de un tiempo superior a 6 horas, según el criterio del responsable del taller elegido.
+Si los Beneficiarios optan por la continuación del viaje, AUXILIA CLUB ASISTENCIA sufragará los gastos de desplazamiento hasta el lugar de destino previsto, siempre que el costo no supere la prestación a que se refiere el párrafo anterior.
+Límite de Estancia y Desplazamiento de los asegurados por robo del vehículo: Letra a) UF 3 por día, máximo UF 9.
+
+Transporte, depósito o custodia del vehículo reparado o recuperado:
+Si la reparación del vehículo requiere un tiempo de inmovilización superior a 72 horas o, en caso de robo, si el vehículo es recuperado después que el usuario se haya ausentado del lugar de ocurrencia del mismo, AUXILIA CLUB ASISTENCIA sufragará los siguientes gastos:
+a) El depósito y custodia del vehículo reparado o recuperado.
+b) El desplazamiento del Beneficiario o persona habilitada que éste designe, hasta el lugar donde el vehículo haya sido reparado o donde el vehículo sustraído haya sido recuperado.
+Límite del Transporte, depósito o custodia del vehículo reparado o recuperado: UF 8.
+
+Servicio de conductor profesional:
+En caso de imposibilidad del Beneficiario o de la persona autorizada para conducir este vehículo en razón de un accidente y, si ninguno de los acompañantes pudiera sustituirlo con la debida habilitación, AUXILIA CLUB ASISTENCIA proporcionará a su propio cargo un conductor profesional para trasladar el vehículo con sus ocupantes hasta el domicilio habitual o hasta el punto de destino previsto en el viaje, siempre que éste se encuentre dentro del ámbito territorial cubierto por la póliza.
+Límite del Servicio de Conductor Profesional: Sin límites.
+
+Localización y envío de piezas de recambio:
+AUXILIA CLUB ASISTENCIA se encargará de la localización de las piezas de recambio necesarias para la reparación del vehículo Beneficiario, cuando no fuera posible su obtención en el lugar de reparación y asumirá los gastos de envío de dichas piezas al taller donde se encuentre el vehículo, siempre que ellas estén a la venta en Chile.
+Limite de la Localización y envío de piezas de recambio: Sin límites.
+
+Trasmisión de mensajes urgentes:
+AUXILIA CLUB ASISTENCIA se encargará de transmitir los mensajes urgentes y justificados del Beneficiario, relativos a cualquiera de los eventos que de origen a las prestaciones a que se refiere esta asistencia.
+Limites Trasmisión de mensajes urgentes: Sin límites.
+
+Transporte o repatriación sanitaria en caso de lesiones producto de un accidente de tránsito en el vehículo beneficiario
+AUXILIA CLUB ASISTENCIA financiará los gastos de traslado del Beneficiario, en ambulancia o en el medio que considere más idóneo el facultativo que lo atienda, hasta el Centro Hospitalario adecuado o hasta el domicilio del Beneficiario que figura en la póliza. El equipo médico de AUXILIA CLUB ASISTENCIA mantendrá los contactos necesarios con el Centro Hospitalario o facultativo que atienda al Beneficiario para supervisar que el transporte o repatriación sea el adecuado.
+Limites del Transporte o repartición sanitaria en caso de lesiones: Sin límites.
+
+Transporte o repatriación de los beneficiarios acompañantes:
+Cuando la lesión de uno de los Beneficiarios como consecuencia de un accidente de tránsito en que haya participado el vehículo Beneficiarios, impida la continuación del viaje, AUXILIA CLUB ASISTENCIA sufragará los gastos de traslado de los restantes Beneficiarios que le acompañen hasta el domicilio del Beneficiario registrado en la póliza o hasta el lugar donde aquel se encuentre hospitalizado. Si alguna de dichas personas fuera un hijo menor de 15 años del Beneficiario trasladado o repatriado y no tuviera quién le acompañase, AUXILIA CLUB ASISTENCIA proporcionará la persona adecuada para que le atienda durante el viaje hasta el domicilio o lugar de hospitalización ya referidos.
+Limites del Transporte o repartición de los beneficiarios: Sin límites.
+
+Transporte o repatriación del asegurado fallecido y los demás acompañantes:
+En caso de fallecimiento de una de las personas aseguradas durante el viaje como consecuencia de un accidente del tránsito que afecte al vehículo asegurado, AUXILIA CLUB ASISTENCIA efectuará los trámites necesarios para el transporte o repatriación del cadáver y asumir los gastos de traslado para su inhumación en Chile. En el mismo evento, AUXILIA CLUB ASISTENCIA sufragará los gastos de traslado de los restantes acompañantes asegurados hasta el domicilio del asegurado registrado en la póliza o hasta el lugar de inhumación, siempre que no les fuera posible emplear el mismo vehículo asegurado. Si alguno de dichos acompañantes asegurados fuera menor de 15 años y no tuviera quién le acompañase, la compañía proporcionará la persona adecuada para que le atienda durante el traslado.
+Limites del Transporte del asegurado fallecido y los acompañantes: Sin límites.
+
+Defensa jurídica:
+En caso que el Beneficiario fuere detenido por la eventual responsabilidad civil o penal que le puede corresponder en un accidente de tránsito en que haya participado el vehículo asegurado, la AUXILIA CLUB ASISTENCIA asumirá los gastos que se requieran para la correspondiente defensa jurídica hasta obtener la libertad definitiva o provisional.
+Límites de la Defensa jurídica: UF 6.
+
+Fianzas en procedimientos penales:
+AUXILIA CLUB ASISTENCIA por cuenta del Beneficiario anticipará los fondos necesarios para garantizar la libertad provisional, por concepto de fianza que exijan los tribunales competentes.
+Límites: UF 3.
+
+Reparación In Situ:
+Si una avería o accidente impidiera que el vehículo asegurado circule por sus propios medios, AUXILIA CLUB ASISTENCIA proporcionara la ayuda técnica necesaria para intentar reparación de emergencia, a fin de que este pueda continuar su viaje. Su alcance no superara el correspondiente a media hora de mano de obra, en el lugar donde se haya producido el hecho, quedando excluido de esta prestación el costo de las piezas de recambio que fuera necesario sustituir. En caso de que el vehículo no pudiera ser reparado en el tiempo indicado, entrara en vigor la prestación de remolque. Tipos de reparación incluidas en la cobertura de Reparación In Situ:
+a) Carga y/o paso de corriente a baterías.
+b) Cambio de neumáticos (debe contar con el repuesto en buen estado).
+c) Apertura de vehículos cerrados, por pérdida de llaves. Esto no implica reposición de la llave.
+d) Entrega de combustible hasta $ 5.000 gratis para el asegurado a partir del Km. 10 del domicilio habitual. El costo del combustible es de cargo del asegurado.
+e) Reparaciones de emergencia en general, susceptibles a ser efectuadas en el lugar del requerimiento.
+Limites de la Repación In Situ: Sin límites.
+
+Consulta y orientación legal telefónica las 24 horas al día (Sólo en Chile):
+El equipo jurídico de AUXILIA CLUB ASISTENCIA ASISTENCIAS dará orientación legal al Beneficiario respecto de situaciones y contingencias derivadas del uso del vehículo asegurado, durante las 24 horas del día, los 365 días del año.
+Limites de Consulta y orientación legal telefónica: Sin límites.
+
+Representación y tramitación en infracciones en el Juzgado de Policía Local (Sólo en Chile):
+En caso de que el Beneficiario sea multado por una infracción a la Ley de Tránsito, el servicio de asistencia tramitará ante el J.P.L. el pago de la multa y el retiro de la licencia de conducir, cuando esta se encuentre retenida. Para tal efecto, el Beneficiario será representado por un abogado o funcionario administrativo, según corresponda.
+Limites de la representación y tramitaciín en infracciones en el Juzgado de Policía Local: Sin límites.
+
+Asesoría y tramitación en documentación por compraventa de vehículos (Sólo en Chile):
+El Beneficiario podrá contar con la asistencia directa de juristas en la celebración y tramitación de contratos de compraventa, con el fin de garantizar la correcta inscripción del vehículo.
+Limites de Asesoría y tramitación en documentación por compraventa de vechículos: Sin límites.
+
+Tramitación de documentación ante el Registro Civil (Sólo en Chile):
+En caso de que el Beneficiario deba realizar algún trámite relacionado con su vehículo en la Dirección del Tránsito, AUXILIA CLUB ASISTENCIA pondrá a su disposición el personal jurídico necesario para gestionar en su nombre trámites relacionados con la inscripción de vehículos nuevos, obtención de certificados de dominio, transferencia de vehículos usados, duplicados de placas patente, etc.
+Limites en Trámites de documentación ante el Registro Civil: Sin límites.
+
+Tramitación de documentación en las direcciones del tránsito (Sólo en Chile):
+El Beneficiario tiene a su disposición el personal jurídico necesario para gestionar en su nombre, trámites relacionados con el primer permiso de circulación, duplicados de documentos, modificaciones en algún registro e incluso la renovación anual del permiso.
+Limites en Tramitación de documentación en las direcciones del tránsito: Sin límites.
+
+Servicio de conductor profesional para traslado de vehículo siniestrado hasta taller regulador:
+En caso de un siniestro amparado por la Compañía de Seguros, se proporcionará personal debidamente calificado por AUXILIA CLUB ASISTENCIA ASISTENCIAS para retirar el vehículo siniestrado desde el domicilio registrado del Beneficiario y trasladarlo hasta el taller regulador autorizado para efectuar la reparación. La solicitud debe ser formulada por el Beneficiario con un mínimo de 24 horas de anticipación.
+El servicio se realizará siempre que la distancia a recorrer se encuentre dentro del radio urbano de la ciudad, domicilio del Beneficiario.
+Limites del Servicio de conductor profesional para el traslado de vehículo siniestrado: Sujeto a un copago de $2.000 IVA Incluido.
+
+
+4. ACCESO A LOS SERVICIOS: Para solicitar los servicios, el Beneficiario deberá siempre comunicarse, durante las 24 horas y los 365 días del año, al número designado por AUXILIA CLUB ASISTENCIA y BCI SEGUROS GENERALES. AUXILIA CLUB ASISTENCIA coordinará de la mejor forma y en el menor tiempo posible. AUXILIA CLUB ASISTENCIA por razones de calidad y seguridad de sus servicios podrá grabar las conversaciones telefónicas. Estas grabaciones podrán ser utilizadas como medios de prueba ante eventuales diferencias entre las partes y/o el asegurado con alguna de ellas.
+
+5. MARCO DE RESPONSABILIDAD: AUXILIA CLUB ASISTENCIA queda relevada de responsabilidad por incumplimientos y/o contratiempos derivados de casos fortuitos, de fuerza mayor o imposibilidad técnica no imputable a la empresa de asistencias; sin perjuicio de los reembolsos a que hubiere lugar, los que se pagarán, previa comunicación y autorización de AUXILIA CLUB ASISTENCIA, contra presentación de los comprobantes de gastos respectivos que presente el Beneficiario y hasta la concurrencia de los límites que al efecto se estipulan para cada servicio. Para servicios de coordinación o intermediación, las personas naturales y/o jurídicas contactadas por la empresa de asistencias, son tenidas como agentes directos del Beneficiario, sin recurso de naturaleza alguna contra AUXILIA CLUB ASISTENCIA en razón de tal designación. 
+
+CLAUSULA ESPECIAL EN CASO DE SINIESTRO: En caso de ocurrencia de uno de los siniestros indicados a continuación, el cliente podrá contactar directamente a la compañía a través del CRI (Call Center) sin acudir previamente a Carabineros para presentar la Constancia respectiva. Los siniestros considerados para estos efectos son: Rotura de cristales (independiente de la causa), Daños en el parabrisas (independiente de la causa), Daños en focos, Robo de espejos y Rayones menores por actos maliciosos.
+
+COMUNICACIONES Y ENVÍO DE INFORMACIÓN:
+El contratante y/o asegurado facultan expresamente a la Compañía, para que ésta les envíe la copia de su póliza y demás documentos que forman parte integrante de la misma a la dirección de correo electrónico señalado en este instrumento, hecho lo cual se considerará haberse dado debido cumplimiento a lo dispuesto en el artículo 519 del Código de Comercio. Sin perjuicio de lo anterior, el contratante y/o asegurado podrán siempre solicitar una copia de la misma impresa en papel en el domicilio de la Compañía.
+Asimismo, contratante y/o asegurado aceptan expresamente que la Compañía los pueda contactar a sus teléfonos celulares, y direcciones de correo electrónico, para darles la bienvenida; los avisos de renovación de su póliza; informarles respecto de las cuotas de las primas impagas o que estén por vencer; enviarles los avisos de cobranza o para cualquier otro fin que la compañía estime conveniente para su debida y oportuna información.
+Finalmente, el contratante y/o asegurado facultan a la compañía para enviar a la dirección de correo electrónico señalada en este instrumento todas las comunicaciones previstas en el Decreto Supremo Num 1055, en especial, aquellas que digan relación con el procedimiento de liquidación de siniestros.
+
+CLÁUSULA DE RENOVACIÓN AUTOMÁTICA:
+El presente seguro se renovará automáticamente a su vencimiento, por periodos iguales y sucesivos de un año, salvo que cualquiera de las partes comunique a la otra su intención de ponerle término, mediante comunicación con 30 días de anticipación a la fecha de término o cualquiera de sus prórrogas.
+Las partes acuerdan, que la Compañía Aseguradora podrá ajustar el monto de la prima en razón al número de siniestros ocurridos durante cada vigencia y a los siguientes porcentajes de recargo máximos.
+Para 1 siniestro, el porcentaje de recargo máximo es de 30%. Para 2 siniestros, el porcentaje de recargo máximo es de 40%. Y para 3 o más siniestros, el porcentaje de recargo máximo es de 50%, donde las partes acuerdan que la compañía podrá incrementar las primas hasta un máximo del 50 %, si se dan alguno de los siguientes casos: Un alza de costos de repuestos, un aumento en la frecuencia de robo de alguna marca o modelo de vehículo, o
+Variación en algún factor que aumente la siniestralidad de la cartera, ya sea que la póliza hubiere o no tenido siniestros durante su última vigencia o si existe un ajuste, este regirá a contar de la renovación de la póliza.
+NOTA: Se incluye anexo relativo a Procedimiento de Liquidación de Siniestros.
+
+OTRAS CONDICIONES:
+La presente póliza de seguro ha sido emitida por Bci Seguros Generales S.A. en consideración a las declaraciones formuladas por el contratante y/o asegurado en la Propuesta que le ha servido de antecedente, la que forma parte integrante del contrato, el que se rige de acuerdo a los términos previstos en estas condiciones particulares y en los textos depositados en la Superintendencia de Valores y Seguros bajos los códigos POL y CAD identificados más arriba.
+Se deja especial constancia que las declaraciones del contratante y/o asegurado constituyen para Bci Seguros Generales S.A. información determinante del riesgo que se le propuso asegurar y en consecuencia, si cualquiera de éstos hubieren incurrido en un inexcusable error, reticencia o inexactitud, el asegurador tendrá derecho para rescindir el contrato, de acuerdo a lo dispuesto en el artículo 525 del Código de Comercio.
+
+DECLARACIONES DEL ASEGURADO:
+En cumplimiento al artículo 518 del código de comercio el asegurado ha expresado el interés asegurable respecto al objeto del seguro, dicha declaración se encuentra contendida en el Ítem Interés asegurable de la sección Materia Asegurada de la Propuesta, la cual forma parte integrante de la póliza.
+En cumplimiento al artículo 524, numeral 1 y artículo 525 del código de Comercio, el asegurado ha declarado sinceramente todas las circunstancias que permiten identificar la cosa asegurada y apreciar la extensión del riesgo, las que se encuentran contenidas en la propuesta, la cual forma parte integrante de la póliza.
+
+DOMICILIO:
+Para todos los efectos derivados de este contrato de seguro, las partes fijan como domicilio la ciudad y comuna de Santiago.
+
+COMISION DE RECAUDACIÓN Y USO DE CANAL:
+Comisión de Recaudación: 5,25% sobre prima neta anual. Comisión Uso de Canal: 19% sobre prima neta anual.
+
+INFORMACIÓN SOBRE ATENCIÓN DE CLIENTES Y PRESENTACIÓN DE CONSULTAS Y RECLAMOS:
+En virtud de la Circular Nro. 2.131 de 28 de noviembre de 2013, las compañías de seguros,corredores de seguros y liquidadores de siniestros, deberán recibir, registrar y responder todas las presentaciones, consultas o reclamos que se les presenten directamente por el contratante, asegurado, beneficiarios o legítimos interesados o sus mandatarios.
+Las presentaciones pueden ser efectuadas en todas las oficinas de las entidades que se atienda público, presencialmente, por correo postal, medios electrónicos, o telefónicamente, sin formalidades, en el horario normal de atención.
+Recibida una presentación, consulta o reclamo, ésa deberá ser respondida en el plazo más breve posible, el que no podrá exceder de 20 días hábiles contados desde su recepción.
+El interesado, en caso de disconformidad respecto de lo informado, o bien cuando exista demora injustificada de la respuesta, podrá recurrir a la Superintendencia de Valores y Seguros, Área de
+Protección al Inversionista y Asegurado, cuyas oficinas se encuentran ubicadas en Avda. Libertador Bernardo O´Higgins 1449 Piso 1, Santiago, o a través del sitio web www.svs.cl
+
+
+TELEFONOS DE UTILIDAD: En caso de requerir el uso de la cobertura de Asistencia al Vehículo, los teléfonos de cada Compañía son: * 600 6000 292 *. Desde Celulares: 02- 26799700 * Servicio Internacional: 56 2 23690043 (Solicitar Cobro revertido)Si desea comunicarse con su compañía de seguros puede hacerlo al siguiente número de su Casa Matriz en Santiago, donde podrán otorgarle la información que requiera:BCI Seguros: 02- 26799200.
+
+
+ANEXO CONDICIONES PARTICULARES:
+Le recomendamos leer atentamente el siguiente RESUMEN de las condiciones generales en lo relativo a la ocurrencia de un siniestro. Le recordamos que estas normas son imperativas, es decir, establecen obligaciones cuyo incumplimiento significa que el siniestro queda SIN COBERTURA.
+
+POL 1 2013 0214 SEGURO AUTOMOTRIZ OBLIGACIONES DEL ASEGURADO:
+El asegurado estará obligado a:
+1. Declarar sinceramente todas las circunstancias que solicite el asegurador para identificar la cosa asegurada y apreciar la extensión de los riesgos;
+2. Informar, a requerimiento del asegurador, sobre la existencia de otros seguros que amparen el mismo objeto;
+3. Pagar la prima en la forma y época pactadas;
+4. Emplear el cuidado y celo de un diligente padre de familia para prevenir el siniestro;
+5. No agravar el riesgo y dar noticia al asegurador sobre las circunstancias que lleguen a su conocimiento y que reúnan las características señaladas en el artículo 526 del Código de Comercio;
+6. En caso de siniestro, tomar todas las providencias necesarias para salvar la cosa asegurada o para conservar sus restos;
+7. Notificar al asegurador, tan pronto sea posible una vez tomado conocimiento, de la ocurrencia de cualquier hecho que pueda constituir o constituya un siniestro,
+8. Acreditar la ocurrencia del siniestro denunciado, y declarar fielmente y sin reticencia, sus circunstancias y consecuencias.
+9. El asegurador podrá inspeccionar o examinar durante la vigencia de la póliza la materia asegurada, para lo cual deberá coordinarse previamente con el asegurado. El asegurado siempre mantendrá sus obligaciones de declaración señaladas en el artículo 12 de esta póliza.
+10. Cumplir con las obligaciones en caso de siniestro señaladas en estas condiciones generales.
+El asegurador deberá reembolsar los gastos en que razonablemente haya incurrido el asegurado para cumplir las obligaciones expresadas en el número 6 y, en caso de siniestro inminente, también la que prescribe el número 4&ordm;. El reembolso no podrá exceder la suma asegurada. Si el tomador del seguro y el asegurado son personas distintas, corresponde al tomador el cumplimiento de las obligaciones del contrato, salvo aquellas que por su naturaleza deben ser cumplidas por el asegurado. Las obligaciones del tomador podrán ser cumplidas por el asegurado. El incumplimiento de cualquiera de las obligaciones previstas en este título, "Obligaciones del Asegurado", libera a la compañía de toda obligación derivada del presente contrato.
+
+PROCEDIMIENTO PARA DENUNCIAR SINIESTROS:
+Para estos efectos, el asegurado tendrá que cumplir con lo siguiente:
+1. En caso de Siniestro de Daños al Vehículo Asegurado o Pérdida Total, el conductor asegurado, deberá: a) Dejar constancia inmediata de los hechos en la unidad policial más cercana al lugar del accidente, salvo en caso de imposibilidad física debidamente justificada. b) Tomar las providencias del caso para el debido resguardo del vehículo y de sus accesorios. c) Dar aviso a la compañía tan pronto sea posible una vez tomado conocimiento y a más tardar dentro de los 10 días corridos siguientes a la fecha del accidente.
+
+2. En caso de Siniestro de Robo, Hurto o Uso No Autorizado, el asegurado deberá: a) Efectuar la denuncia inmediata de los hechos en la unidad policial más cercana al lugar del accidente, salvo en caso de imposibilidad física debidamente justificada. b) Dar aviso a la compañía tan pronto sea posible una vez tomado conocimiento y a más tardar dentro de los 10 días corridos siguientes a la fecha del accidente.
+
+3. En caso de Siniestro de Responsabilidad Civil, el asegurado deberá dar aviso a la aseguradora inmediatamente de haber tomado conocimiento del hecho. Además, en este caso, el asegurado o contratante deberá poner inmediatamente en conocimiento del Asegurador todos los avisos, citaciones, notificaciones, demandas, denuncias, querellas y en general cualquier comunicación que reciba en relación con el accidente, salvo fuerza mayor debidamente justificada.
+En todos los casos aquí enumerados, el asegurado deberá acreditar el interés asegurable que lo constituye en económicamente interesado en la conservación del vehículo asegurado.
+
+EXCLUSIONES:
+¿Cuántas Exclusiones tiene el seguro?
+El presente seguro no cubre las siguientes EXCLUSIONES:
+Total de Exclusiones no cubiertas por el seguro: 22 (15 aplicables a todas las coberturas y 7 exclusiones específicas para responsabilidad civil).
+
+Exclusiones aplicables a todas las coberturas:
+1) El seguro no cubre los siniestros ocasionados por el/la cónyuge, ascendientes, descendientes o parientes por consanguinidad o afinidad hasta el 2 grado o trabajadores dependientes del asegurado, como consecuencia del uso no autorizado del vehículo.
+2) El seguro no cubre los siniestros ocurridos mientras el vehículo asegurado esté siendo destinado a un fin diferente al declarado al contratar el seguro.
+3) El seguro no cubre los siniestros que sufra o provoque el vehículo asegurado cuando participe en apuestas, desafíos, carreras o concursos de cualquier naturaleza o en las pruebas preparatorias para tales eventos o cuando el vehículo sea modificado en su cilindrada o potencia.
+4) El seguro no cubre los daños que sufra el vehículo asegurado o que sean causados por éste cuando sea conducido por una persona bajo la influencia de cualquier droga que produzca efectos desinhibidores, alucinógenos o somníferos.
+5) El seguro no cubre los daños que sufra el vehículo o que sean causados por éste, cuando, siendo el conductor sometido al momento del accidente, a un examen de medición del alcohol, previsto en las normas legales o reglamentarias, éste arroje un resultado igual o superior a la cantidad de alcohol por mil gramos de sangre que la ley tipifique como "estado de ebriedad". Para estos efectos, se establece que la cantidad de alcohol en la sangre en una persona desciende 0.11 gramos por mil cada hora, o en la fracción que corresponda a los minutos efectivamente transcurridos, si el lapso es inferior a una hora. La compañía quedará eximida de la obligación de indemnizar, conforme a esta póliza, cuando el conductor, requerido al efecto por la autoridad competente, se negase injustificadamente a practicarse cualquier examen que sirva para determinar la cantidad de alcohol o drogas en su organismo.
+6) El seguro no cubre los daños sufridos por el vehículo asegurado o causados por éste cuando su conductor ha huido o abandonado el lugar del accidente.
+7) El seguro no cubre cuando el siniestro que origine los daños o pérdidas haga responsable de delito al asegurado o al conductor.
+8) El seguro no cubre los siniestros ocurridos a consecuencia de de la modificación de piezas o partes del vehículo asegurado. 
+
+Exclusiones aplicables a la cobertura de daños al vehículo asegurado:
+1) El seguro no cubre el deterioro, desgaste, uso normal del vehículo o sus piezas o partes, así como los daños cuya causa sea la carga en exceso, o desperfectos mecánicos. Si alguna de las situaciones o circunstancias anteriores provocare un accidente cubierto por la presente póliza, sólo se indemnizarán los daños causados por dicho accidente.
+2) No cubre los daños producidos por personas, animales u objetos transportados o remolcados en el vehículo y los producidos durante la carga o descarga de los mismos.
+3) No cubre los daños que experimente el vehículo mientras es trasladado por un medio transportador distinto de los señalados en el numeral 2), letra a) del artículo 3.1.1.
+4) No cubre el robo o hurto de accesorios y los daños causados a éstos durante la perpetración del hecho, aun cuando éstos hayan sido robados o hurtados conjuntamente con el vehículo asegurado.
+5) No cubre las pérdidas de beneficios, el lucro cesante y otros perjuicios indirectos de cualquier tipo.
+6) No cubre los daños que tengan por origen o fueren una consecuencia de granizo, erupción volcánica, salida de mar de origen no sísmico, inundación, avalancha o deslizamiento de tierra, huracán, ciclón o cualquier otra convulsión de la naturaleza, a excepción de rayo; así como las pérdidas o daños que ocurran a causa de la situación anormal provocada por cualquiera de los hechos mencionados.
+7) No cubre los daños que se produzcan o que ocurran como consecuencia de sismo y la salida de mar de origen sísmico; así como los daños que ocurran a causa de la situación anormal provocada por el mismo.
+8) No cubre los daños que sufra el vehículo asegurado, que tuvieren por origen o fueren una consecuencia de guerra, invasión, actos cometidos por enemigos extranjeros, hostilidades u operaciones bélicas, sea que haya habido o no declaración de guerra, guerra civil, insurrección, sublevación, rebelión, sedición, motín o hechos que las leyes castigan como delitos contra la seguridad interior del Estado.
+9) No cubre los daños que sufra el vehículo asegurado, que tuvieren por origen o fueren agravados por reacción nuclear, radiación nuclear o contaminación radiactiva.
+10) No cubre los daños sufridos por el vehículo asegurado mientras recorre, atraviesa o se encuentra detenido en cualquier curso de agua, río, arenal, playa de mar, lago o terreno no destinado para el tránsito de vehículos a motor, salvo que éstos sean trayecto obligado en camino público.
+11) No cubre los daños que tengan su origen o fueren consecuencia de huelga, cierre patronal (lock-out), desórdenes públicos o de delitos contra el orden público o de terrorismo; así como las pérdidas o daños que ocurran a causa de la situación anormal provocada por cualquiera de los hechos o situaciones antes mencionados.
+12) No cubre los daños que maliciosamente se causen al vehículo asegurado, entendiéndose por tales aquéllos que se originen en forma consciente, deliberada y con el ánimo o intención de causar dicho deterioro.
+13) No cubre los causados por combustibles y elementos inflamables, explosivos, o tóxicos transportados en el vehículo asegurado.
+14) No cubre los daños a los neumáticos y cámaras cuya causa sea diferente de un accidente que haya afectado al resto del vehículo y que sea indemnizable conforme a esta póliza.
+15) No cubre los daños causados al motor como consecuencia de la aspiración de agua u otro líquido en su interior, por cualquier causa.
+
+Exclusiones aplicables a la cobertura de responsabilidad civil:
+1) No cubre daños o lesiones, incluyendo muerte, causados a o por las personas, animales o cosas transportadas o remolcadas en el vehículo asegurado.
+2) Seguro indica responsabilidad contractual.
+3) No cubre los daños a puentes, básculas, viaductos, carreteras y a todo lo que pueda existir bajo los mismos, debidos al peso del vehículo, de sus acoplados o de la carga transportada.
+4) No cubre los daños a los bienes de las personas que dependen del asegurado, de su cónyuge, de sus ascendientes, sus descendientes, o parientes por consanguinidad o afinidad hasta el 2do; grado, así como toda persona que viva bajo el mismo techo con el asegurado.
+5) No cubre los daños a cosas confiadas al asegurado para que las controle, custodie, vigile, transporte, arrastre o remolque y, en general, las que tenga bajo cualquier título que produzca la obligación de restituirlas o devolverlas.
+6) No cubre la responsabilidad proveniente de perjuicios indirectos.
+7) No cubre la responsabilidad proveniente del robo, hurto o uso no autorizado.
+
+
+
+
+
+
+POL 1 2014 0303 ASISTENCIA AL VEHÍCULO
+OBLIGACIONES DEL ASEGURADO
+El asegurado estará obligado a: a) Declarar sinceramente todas las circunstancias que solicite el
+asegurador para identificar la cosa asegurada y apreciar la extensión de los riesgos; b) Informar, a
+requerimiento del asegurador, sobre la existencia de otros seguros que amparen el mismo objeto;
+c) Pagar la prima en la forma y época pactadas; d) Emplear el cuidado y celo de un diligente padre
+de familia para prevenir el siniestro; e) Cumplir con procedimiento de denuncio de siniestro
+señaladas en el artículo 12 de estas condiciones generales. f) Las demás obligaciones que
+imponga el presente Condicionado General.
+Si el tomador del seguro y el asegurado son personas distintas, corresponde al tomador el
+cumplimiento de las obligaciones del contrato, salvo aquellas que por su naturaleza deben ser
+cumplidas por el asegurado. Las obligaciones del tomador podrán ser cumplidas por el asegurado.
+PROCEDIMIENTO EN CASO DE SINIESTROS
+Cuando se produzca algún hecho que pueda dar origen a alguna de las prestaciones aseguradas
+por esta póliza, el asegurado solicitará por teléfono la asistencia correspondiente, indicando sus
+datos identificativos, la patente del vehículo asegurado, el número de la póliza, el lugar donde se
+encuentra y la clase de servicio que precisa.
+La compañía reintegrará el importe de las llamadas realizadas para contacto con la central de
+asistencia, previa justificación.
+La central de asistencia es la Unidad a la cual el asegurado debe dirigirse telefónicamente en caso
+de siniestro. El número de teléfono de dicha central es el que figura en la tarjeta o credencial que
+la compañía entregará al asegurado junto con la emisión de la póliza.
+EXCLUSIONES
+Están excluidos de esta cobertura las prestaciones y hechos siguientes: a) Los servicios que el
+asegurado haya concertado por su cuenta, sin previo consentimiento de la compañía, salvo que la
+comunicación haya sido imposible por razón de fuera mayor. b) Las asistencias derivadas de
+prácticas deportivas en competición.
+La compañía queda relevada de responsabilidad cuando por causa de fuerza mayor le sea
+imposible prestar las acciones de asistencia prescritas en esta póliza, sin perjuicio de las
+indemnizaciones a que hubiere lugar, las que se pagarán contra presentación de los
+comprobantes de gastos respectivos que presente el asegurado y hasta concurrencia de los
+límites que al efecto se estipulan en las Condiciones Particulares.
+POL 1 2013 0562 SEGUROS PARA ROBO DE CONTENIDO EN VEHÍCULOS MOTORIZADOS
+EXCLUSIONES
+El presente seguro no cubre:
+1) Los siniestros ocasionados por el/la cónyuge, ascendientes, descendientes o parientes por
+consanguinidad o afinidad hasta el 2&ordm; grado o trabajadores dependientes del asegurado,
+como consecuencia del uso no autorizado del vehículo.
+2) Los siniestros ocurridos mientras el vehículo asegurado esté siendo destinado a un fin diferente
+al declarado al contratar el seguro.
+3) Las pérdidas de beneficios, el lucro cesante y otros perjuicios indirectos de cualquier tipo.
+4) Daños que provengan de hechos no constitutivos de delito de robo con fuerza en las cosas,
+tales como hurtos, apropiación indebida, estafas y otros engaños.
+5) Daños ocasionados por cualquiera forma de robo, cuando existe una situación anormal a causa
+de guerra civil o entre países, o estado de guerra, antes o después de su declaración, o
+sublevación, huelga, motín, alboroto popular, conmoción civil, insurrección, revolución o rebelión,
+ni cuando ocurran temblores o terremotos o erupciones volcánicas, huracanes, o cualquier otro
+fenómeno meteorológico. Sin embargo, responderá cuando estos estados o sus efectos -en
+especial los de destrucción o falta de orden público y las condiciones de inseguridad creadas por
+ellos- no no hayan podido influir ni propiciar ni directa ni indirectamente el propósito de robo o la
+ejecución del robo con fuerza en las cosas.
+6) Las pérdidas, daños, costos o gastos de cualquier naturaleza, directa o indirectamente
+causados por, resultante de, o relacionados con cualquier acto de terrorismo, sin perjuicio de la
+existencia de cualquier otra causa o acontecimiento que contribuya al siniestro en forma
+concurrente o en cualquier otra secuencia.
+CÓDIGO DE AUTORREGULACIÓN
+Bci Seguros se encuentra adherida al Código de Autorregulación de las Compañías de Seguros y
+está sujeta al Compendio de Buenas Prácticas Corporativas, que contiene un conjunto de normas
+destinadas a promover una adecuada relación de las compañías de seguros con sus clientes.
+Copia de este Compendio se encuentra en la página web www.aach.cl.
+Asimismo, ha aceptado la intervención del Defensor del Asegurado cuando los clientes le
+presenten reclamos en relación a los contratos celebrados con ella. Los clientes pueden presentar
+sus reclamos ante el Defensor del Asegurado utilizando los formularios disponibles en las oficinas
+de Bci Seguros o a través de la página web www.ddachile.cl.
+Anexo
+Procedimiento de Liquidación de Siniestros
+(Circular Nº 2.106 del 31.05.2013 de S. V.S.)
+1) OBJETO DE LA LIQUIDACIÓN
+La liquidación tiene por fin establecer la ocurrencia de un siniestro, determinar si el siniestro está
+cubierto en la póliza contratada en una compañía de seguros determinada, y cuantificar el monto
+de la pérdida y de la indemnización a pagar.
+El procedimiento de liquidación está sometido a los principios de celeridad y economía
+procedimental, de objetividad y carácter técnico y de transparencia y acceso.
+2) FORMA DE EFECTUAR LA LIQUIDACIÓN
+La liquidación puede efectuarla directamente la Compañía o encomendarla a un Liquidador de
+Seguros. La decisión debe comunicarse al Asegurado dentro del plazo de tres días hábiles
+contados desde la fecha de la denuncia del siniestro.
+3) DERECHO DE OPOSICIÓN A LA LIQUIDACIÓN DIRECTA
+En caso de liquidación directa por la Compañía, el Asegurado o beneficiario puede oponerse a
+ella, solicitándole por escrito que designe un Liquidador de Seguros, dentro del plazo de cinco
+días hábiles contados desde la notificación de la comunicación de la Compañía. La Compañía
+deberá designar al Liquidador en el plazo de dos días hábiles contados desde dicha oposición.
+4) INFORMACIÓN AL ASEGURADO DE GESTIONES A REALIZAR Y PETICIÓN DE
+ANTECEDENTES
+El liquidador o la Compañía, deberá informar al Asegurado, por escrito, en forma suficiente y
+oportuna, al correo electrónico (informado en la denuncia del siniestro) o por carta certificada (al
+domicilio señalado en la denuncia de siniestro), de las gestiones que le corresponde realizar,
+solicitando de una sola vez, cuando las circunstancias lo permitan, todos los antecedentes que
+requiere para liquidar el siniestro.
+5) PRE-INFORME DE LIQUIDACIÓN
+En aquellos siniestros en que surgieren problemas y diferencias de criterios sobre sus causas,
+evaluación del riesgo o extensión de la cobertura, podrá el Liquidador, actuando de oficio o a
+petición del Asegurado, emitir un pre-informe de liquidación sobre la cobertura del siniestro y el
+monto de los daños producidos, el que deberá ponerse en conocimiento de los interesados. El
+Asegurado o la Compañía podrán hacer observaciones por escrito al pre-informe dentro del plazo
+de cinco días hábiles desde su conocimiento.
+6) PLAZO DE LIQUIDACIÓN
+Dentro del más breve plazo, no pudiendo exceder de45 días corridos desde la fecha de denuncio,
+a excepción de;
+a) Siniestros que correspondan a seguros individuales sobre riesgos del Primer Grupo cuya prima
+anual sea superior a 100 UF: 90 días corridos desde fecha denuncio.
+b) Siniestros marítimos que afecten a los cascos o en caso de Avería Gruesa: 180 días corridos
+desde fecha denuncio.
+7) PRÓRROGA DEL PLAZO DE LIQUIDACIÓN
+Los plazos antes señalados podrán excepcionalmente siempre que las circunstancias lo ameriten,
+prorrogarse, sucesivamente por iguales períodos, informando los motivos que la fundamenten e
+indicando las gestiones concretas y específicas que se realizarán, lo que deberá comunicarse al
+Asegurado y a la Superintendencia, pudiendo esta última dejar sin efecto la ampliación, en casos
+calificados, y fijar un plazo para entrega del Informe de Liquidación. No podrá ser motivo de
+prórroga la solicitud de nuevos antecedentes cuyo requerimiento pudo preverse con anterioridad,
+salvo que se indiquen las razones que justifiquen la falta de requerimiento, ni podrán prorrogarse
+los siniestros en que no haya existido gestión alguna del liquidador, registrado o directo.
+8) INFORME FINAL DE LIQUIDACIÓN
+El informe final de liquidación deberá remitirse al Asegurado y simultáneamente al Asegurador,
+cuando corresponda, y deberá contener necesariamente la transcripción íntegra de los artículos
+26 al 27 el Reglamento de Auxiliares del Comercio de Seguros (D.S. de Hacienda Nº1.055, de
+2012, Diario Oficial de 29 de diciembre de 2012).
+9) IMPUGNACIÓN INFORME DE LIQUIDACIÓN
+Recibido el Informe de Liquidación, la Compañía y el Asegurado dispondrán de un plazo de diez
+días hábiles para impugnarla. En caso de liquidación directa por la Compañía, este derecho sólo
+lo tendrá el Asegurado.
+Impugnado el informe, el Liquidador dispondrá de un plazo de seis días hábiles para responder la
+impugnación.
+PLAN DE PAGO
+Póliza Nro.
+WP11664286
+Prima:
+52.56 c/iva
+Responsable de Pago
+Nombre Completo:
+Enrique Aurelio Ramirez Paredes
+Rut:
+9.091.519 - 3
+Dirección:
+Ventura Blanco Viel
+1320
+Depto 306
+Ciudad:
+Santiago
+Comuna:
+San Miguel
+Teléfono Fijo:
+09-99170031
+Celular:
+09-99170031
+e-Mail:
+enrique220563@gmail.com
+Debo y pagaré a BCI Seguros Generales S.A. la prima arriba señalada, incluyendo sus
+correspondientes intereses, en las cuotas, fechas y por los montos que a continuación se
+indican:
+Cuota
+Vencimiento
+Valor Cuota c/iva
+1
+02/06/2023
+2.19
+2
+02/07/2023
+2.19
+3
+02/08/2023
+2.19
+4
+02/09/2023
+2.19
+5
+02/10/2023
+2.19
+6
+02/11/2023
+2.19
+7
+02/12/2023
+2.19
+8
+02/01/2024
+2.19
+9
+02/02/2024
+2.19
+10
+02/03/2024
+2.19
+11
+02/04/2024
+2.19
+12
+02/05/2024
+2.19
+13
+02/06/2024
+2.19
+14
+02/07/2024
+2.19
+15
+02/08/2024
+2.19
+16
+02/09/2024
+2.19
+17
+02/10/2024
+2.19
+18
+02/11/2024
+2.19
+19
+02/12/2024
+2.19
+20
+02/01/2025
+2.19
+21
+02/02/2025
+2.19
+22
+02/03/2025
+2.19
+23
+02/04/2025
+2.19
+24
+02/05/2025
+2.19
+La prima o saldo insoluto de ella que ha sido documentada en virtud del presente instrumento
+devenga interés mensual del  0.32%.
+El aviso de cobro de las cuotas más arriba individualizadas, será enviado mensualmente al
+domicilio registrado en el presente Plan de Pagos. Si por causa no imputable a BCI Seguros el
+cargo en la respectiva cuenta corriente o tarjeta de crédito no se efectúa, el obligado a su pago
+no queda liberado de su compromiso de cancelar en forma íntegra y oportuna la prima
+convenida. El incumplimiento de esta obligación faculta a la Compañía para aplicar la cláusula
+de resolución de contrato por no pago de prima, sin perjuicio de sus demás derechos.
+El pago de cuotas expresadas en unidades de fomento deberá efectuarse en su equivalente en
+pesos al día del pago efectivo. Las expresadas en otras monedas, se solucionarán en la
+moneda respectiva.
+Este Plan de Pagos forma parte integrante de las Condiciones Particulares de la póliza.
+Los cheques deben extenderse nominativamente y cruzados a nombre de: BCI Seguros
+Generales S.A.
+___________________________
+FIRMA DEL ACEPTANTE
