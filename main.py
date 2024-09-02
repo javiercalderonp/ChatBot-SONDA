@@ -86,7 +86,7 @@ llm = WatsonxLLM(
 
 # Definir un prompt template más específico
 template = """sistema
-Analiza el documento proporcionado y responde las preguntas del usuario utilizando únicamente la información encontrada en el documento.
+Analiza el documento proporcionado y responde las preguntas del usuario utilizando únicamente la información encontrada en el documento. Responde solo la respuesta (Evita poner "La respuesta es:")
 
 Contexto: {contexto}
 
